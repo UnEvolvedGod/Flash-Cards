@@ -21,7 +21,7 @@ Japanese,English
 私,"I, me"  
 あなた,You  
 ```  
-!(https://github.com/UnEvolvedGod/Flash-Cards/blob/main/images/answer_side.png)
+![](https://github.com/UnEvolvedGod/Flash-Cards/blob/main/images/answer_side.png)
 ### **Key Features**  
 
 - **Customizable Study Topics**:  
