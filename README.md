@@ -55,7 +55,7 @@ Japanese,English
 3. **Session Completion**:  
    - The session continues until all flashcards are answered correctly, or the user manually ends it.  
    - Progress is saved if the session ends early.  
-
+![](https://github.com/UnEvolvedGod/Flash-Cards/blob/main/images/congrats.png)
 ---
 
 ## **Important Notes**  
