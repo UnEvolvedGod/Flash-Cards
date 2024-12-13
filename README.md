@@ -60,11 +60,7 @@ Japanese,English
 
 ## **Important Notes**  
 
-1. **Managing the `words_to_learn.csv` File**:  
-   - If this file becomes empty, the program will not function correctly.  
-   - To fix this, either delete the file to reset it or manually input words in the correct format.  
-
-2. **Final Card Behavior**:  
+1. **Final Card Behavior**:  
    - On the last card, pressing "Check" before the answer is revealed may cause the congratulatory message to overlap with the final card’s definition.  
 
 ---
