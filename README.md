@@ -1,7 +1,3 @@
-Here’s a polished write-up for your GitHub project:  
-
----
-
 # **Flash Card GUI Application**  
 
 A simple and intuitive GUI application designed to help users study any topic using flashcards. This program makes it easy to track progress and focus on areas that need improvement, ensuring a personalized and effective learning experience.  
@@ -95,7 +91,3 @@ Japanese,English
 ---
 
 Feel free to contribute, report issues, or suggest enhancements to make this tool even better! 😊  
-
---- 
-
-Let me know if you'd like me to adjust anything!
